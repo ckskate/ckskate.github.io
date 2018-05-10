@@ -5,8 +5,7 @@ description: "Do nothing correctly"
 date: 2018-05-08
 tags: meditation think-piece
 comments: true
-id: 1
-url: https://ckillion.me/2018/05/meditations-on-meditation
+id-num: 1
 ---
 
 ### Introduction
